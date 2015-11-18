@@ -1,0 +1,12 @@
+[submodule "heat"]
+	path = heat
+	url = https://github.com/maestro-hybrid-cloud/heat.git
+[submodule "horizon"]
+	path = horizon
+	url = https://github.com/maestro-hybrid-cloud/horizon.git
+[submodule "ceilometer"]
+	path = ceilometer
+	url = https://github.com/maestro-hybrid-cloud/ceilometer.git
+[submodule "keystone"]
+	path = keystone
+	url = https://github.com/maestro-hybrid-cloud/keystone.git
